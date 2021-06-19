@@ -1,0 +1,9 @@
+C:\Users\yavuz\source\repos\ThieftRp\ThieftRp\bin\Debug\ThieftRp.exe.config
+C:\Users\yavuz\source\repos\ThieftRp\ThieftRp\bin\Debug\ThieftRp.exe
+C:\Users\yavuz\source\repos\ThieftRp\ThieftRp\bin\Debug\ThieftRp.pdb
+C:\Users\yavuz\source\repos\ThieftRp\ThieftRp\obj\Debug\ThieftRp.csprojAssemblyReference.cache
+C:\Users\yavuz\source\repos\ThieftRp\ThieftRp\obj\Debug\ThieftRp.Form1.resources
+C:\Users\yavuz\source\repos\ThieftRp\ThieftRp\obj\Debug\ThieftRp.Properties.Resources.resources
+C:\Users\yavuz\source\repos\ThieftRp\ThieftRp\obj\Debug\ThieftRp.csproj.GenerateResource.cache
+C:\Users\yavuz\source\repos\ThieftRp\ThieftRp\obj\Debug\ThieftRp.exe
+C:\Users\yavuz\source\repos\ThieftRp\ThieftRp\obj\Debug\ThieftRp.pdb
